@@ -1,6 +1,6 @@
-﻿namespace quanlycaffe
+﻿namespace qlquancaffe
 {
-    partial class Form1
+    partial class quanlikhuvuc
     {
         /// <summary>
         /// Required designer variable.
@@ -28,20 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
+            SuspendLayout();
             // 
-            // Form1
+            // quanlikhuvuc
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(678, 427);
-            this.IsMdiContainer = true;
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
-            this.Load += new System.EventHandler(this.Form1_Load);
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            IsMdiContainer = true;
+            Name = "quanlikhuvuc";
+            Text = "quanlikhuvuc";
+            WindowState = FormWindowState.Maximized;
+            ResumeLayout(false);
         }
 
         #endregion

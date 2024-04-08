@@ -2,8 +2,8 @@ C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\quanlycaffe\quanlycaffe\bin\De
 C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\quanlycaffe\quanlycaffe\bin\Debug\quanlycaffe.exe
 C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\quanlycaffe\quanlycaffe\bin\Debug\quanlycaffe.pdb
 C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\quanlycaffe\quanlycaffe\obj\Debug\quanlycaffe.csproj.AssemblyReference.cache
-C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\quanlycaffe\quanlycaffe\obj\Debug\quanlycaffe.Form1.resources
 C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\quanlycaffe\quanlycaffe\obj\Debug\quanlycaffe.csproj.GenerateResource.cache
 C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\quanlycaffe\quanlycaffe\obj\Debug\quanlycaffe.csproj.CoreCompileInputs.cache
 C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\quanlycaffe\quanlycaffe\obj\Debug\quanlycaffe.exe
 C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\quanlycaffe\quanlycaffe\obj\Debug\quanlycaffe.pdb
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\quanlycaffe\quanlycaffe\obj\Debug\quanlycaffe.frmMain.resources
