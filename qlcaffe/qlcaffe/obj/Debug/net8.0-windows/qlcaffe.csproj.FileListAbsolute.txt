@@ -1,0 +1,16 @@
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\bin\Debug\net8.0-windows\qlcaffe.exe
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\bin\Debug\net8.0-windows\qlcaffe.deps.json
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\bin\Debug\net8.0-windows\qlcaffe.runtimeconfig.json
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\bin\Debug\net8.0-windows\qlcaffe.dll
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\bin\Debug\net8.0-windows\qlcaffe.pdb
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\obj\Debug\net8.0-windows\qlcaffe.FormMain.resources
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\obj\Debug\net8.0-windows\qlcaffe.csproj.GenerateResource.cache
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\obj\Debug\net8.0-windows\qlcaffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\obj\Debug\net8.0-windows\qlcaffe.AssemblyInfoInputs.cache
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\obj\Debug\net8.0-windows\qlcaffe.AssemblyInfo.cs
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\obj\Debug\net8.0-windows\qlcaffe.csproj.CoreCompileInputs.cache
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\obj\Debug\net8.0-windows\qlcaffe.dll
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\obj\Debug\net8.0-windows\refint\qlcaffe.dll
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\obj\Debug\net8.0-windows\qlcaffe.pdb
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\obj\Debug\net8.0-windows\qlcaffe.genruntimeconfig.cache
+C:\Users\DN_Hocvien\Desktop\Hoang_LTG\quanlycaffe\qlcaffe\qlcaffe\obj\Debug\net8.0-windows\ref\qlcaffe.dll
